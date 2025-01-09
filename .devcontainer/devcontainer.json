@@ -10,7 +10,8 @@
         "google.android-studio",
         "vscjava.vscode-java-pack",
         "vscjava.vscode-gradle",
-        "naco-siren.gradle-language"
+        "naco-siren.gradle-language",
+        "RooVeterinaryInc.roo-cline"
       ]
     }
   },
