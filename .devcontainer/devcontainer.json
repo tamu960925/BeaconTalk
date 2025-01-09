@@ -1,0 +1,19 @@
+{
+  "name": "Android Development",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "runArgs": ["--privileged"],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "google.android-studio",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-gradle",
+        "naco-siren.gradle-language"
+      ]
+    }
+  },
+  "forwardPorts": [5037],
+  "postCreateCommand": "apt-get update && apt-get install -y openjdk-17-jdk"
+}
