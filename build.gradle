@@ -6,8 +6,8 @@ android {
     compileSdkVersion 33
     
     defaultConfig {
-        applicationId "com.example.bluetoothchat"
-        namespace "com.example.bluetoothchat"
+        applicationId "com.example.beacontalk"
+        namespace "com.example.beacontalk"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1

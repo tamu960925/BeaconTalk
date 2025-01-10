@@ -1,7 +1,7 @@
-# Bluetooth Chat アプリケーション
+# BeaconTalk アプリケーション
 
 ## 概要
-このアプリケーションは、Bluetoothを使用して2台のAndroidデバイス間でテキストメッセージを送受信するチャットアプリです。
+このアプリケーションは、Bluetoothを使用して2台のAndroidデバイス間でテキストメッセージを送受信するBeaconTalkアプリです。
 
 ## 主な機能
 - Bluetoothデバイスの検出とペアリング

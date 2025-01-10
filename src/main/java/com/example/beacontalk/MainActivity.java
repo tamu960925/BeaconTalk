@@ -1,4 +1,4 @@
-package com.example.bluetoothchat;
+package com.example.beacontalk;
 
 import android.app.AlertDialog;
 import android.bluetooth.BluetoothAdapter;
@@ -22,7 +22,7 @@ import java.util.Set;
 import java.util.UUID;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TAG = "BluetoothChat";
+    private static final String TAG = "BeaconTalk";
     private static final UUID MY_UUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
     
     private BluetoothAdapter bluetoothAdapter;
